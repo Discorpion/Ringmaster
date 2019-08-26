@@ -402,7 +402,7 @@ def main():
                         __/ |                                 
                         |___/                                  
                                                                                             
-        By: TyperOfCode (Aka Dirt2Master)
+        By: TyperOfCode (Aka Discorpion)
 
         * Info:
 
